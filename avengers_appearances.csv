@@ -1,4 +1,4 @@
-"Year",">= 100","< 100","Males","Females"
+"Year","Greater than/equal to 100","Less than 100","Males","Females"
 1960,15,0,13,2
 1970,17,0,11,6
 1980,16,11,16,11
